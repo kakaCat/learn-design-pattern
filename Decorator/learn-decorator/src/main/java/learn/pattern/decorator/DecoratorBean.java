@@ -12,6 +12,6 @@ public abstract class DecoratorBean implements IBean {
     public DecoratorBean(IBean iBean){
         this.iBean=iBean;
     }
-
+    @Override
     public abstract void getBean();
 }
