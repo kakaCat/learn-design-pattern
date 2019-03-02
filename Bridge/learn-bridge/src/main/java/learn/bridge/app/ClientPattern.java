@@ -1,7 +1,6 @@
 package learn.bridge.app;
 
 import learn.bridge.bridge.pattern.Circle;
-import learn.bridge.bridge.pattern.Shape;
 import learn.bridge.bridge.pattern.color.Color;
 import learn.bridge.bridge.pattern.color.impl.White;
 
